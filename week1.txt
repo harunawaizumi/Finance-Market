@@ -1,0 +1,64 @@
+## Week1 
+
+- variance (分散)
+- standard deviation (標準偏差)
+variance = (standard deviation)^2
+shows risk, リターンのぶれの大きさ
+
+- Beta
+the regression slope coefficient when the return on the ith asset is regressed on the return on the market.
+How stock is related to stock market.
+Beta 1.45 is getting high. 2 is rare.
+
+- what you can see from the scatter
+Upward slope = correlated
+Apple is more variable than S&P500
+Y = mx + B (回帰線)
+m (beta): Regression line slope = 1.45 (係数)
+x: variance(分散) of the market return
+Y: returns of Apple stock
+
+- Market Risk
+mx: market return
+the risk of the whole stock market.
+
+- Idiosyscratic Rick
+B: Apple only, Alpha
+
+
+- Covariance 
+Risk is determined by covariance.
+Idiosyscratic risk doesn't matter when you are invessting lots of companies.
+Can't get rid of the market risk.
+
+- Federal Insurace Office
+mainly just a monitoring for risk
+
+Health insurance has suffered an import shortcoming in the U.S.
+in order to make insurance work it takes a lot of developments and it's not easy and obvious.
+
+Before:
+It was a narrow scope of risk.
+There are no national insurance companies
+
+1. for people who can afford to get insurance
+Moral hassard : losing incentive no to being sick because you are insured.
+
+2. Doctors
+Doctors made more money if people were sick. They would, they didn't have any incentive to prevent disease.
+
+3. for people who can't afford to get insurance
+There was not standard for insurance contract. >> prices goes up.
+Insurance company need to charge them a lot. >> they can't sign up contact.
+
+in 1986
+the U.S. Congress passed another law called EMTALA law. Emergency Medical Treatment and Active Labor Act which required hospitals and ambulance services to provide care to anyone needing emergency treatment.
+People who can't pay for insurance go to emergency room.
+
+in 2010
+Affordable Care Act of 2010 called Obamacare
+there's a penalty for individuals not buying insurance. A tax penalty
+
+in 2002 
+Required insurers to offer terrorism insurance for three years. Government cover 90%.
+
