@@ -76,4 +76,3 @@ g: groth rate ex) 2% yearly
 r: interest ex) 5% yearly
 V = x/(r-g)
   = x/(1+r)
-
