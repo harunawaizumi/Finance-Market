@@ -1,0 +1,15 @@
+# Week3
+- Market Capitalization by Country
+the price per share multiplied by the number of shares
+US is the top: 151% of GDP
+
+- The Corporation
+Incorporated, that means it's made as if it has a body.
+The for-profit exists for shareholders.
+The non-profit exists for whatever the charter of the non-profit says,
+* non-profit: they make profits. they don't distribute profits to shareholders.
+
+- Shares and Dividends
+Divdends: break a share into 2 etc.
+ In the United States, by tradition, the target price per share is something like $30 a share.
+The price goes down when the company pays the dividends.
