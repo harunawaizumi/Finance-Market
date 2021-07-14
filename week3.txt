@@ -9,7 +9,34 @@ The for-profit exists for shareholders.
 The non-profit exists for whatever the charter of the non-profit says,
 * non-profit: they make profits. they don't distribute profits to shareholders.
 
+- Common vs Preferred
+Preferred stock : it cannot pay a common stock dividend until it's paid up on its preferred stock dividends a specified dividend which does not grow through time. the U.S. government got a lot of preferred shares in companies for bailing them out.
+Common : The word equity refers to common stock as well.
+
+- Corporations raise Money
+1. retained earnings
+it's slows. many companies don't have enough money.
+
+2. bond, raining money
+issue shares -> company has less shares -> dilution -> might increases value
+
+3. borrow money from bank
+might pay interest
+
+can raise more money when the stock price is going up.
+
 - Shares and Dividends
 Divdends: break a share into 2 etc.
  In the United States, by tradition, the target price per share is something like $30 a share.
 The price goes down when the company pays the dividends.
+
+- Share Repurchase 
+alternative of dividend
+no dilution 
+no taxation 
+
+- PDV of Expected Dividends 
+P = (Earnings)/(interest Rate - growth rate of earnings)
+self-control theory of dividend 
+dividend - to show it can court bankrupty
+
